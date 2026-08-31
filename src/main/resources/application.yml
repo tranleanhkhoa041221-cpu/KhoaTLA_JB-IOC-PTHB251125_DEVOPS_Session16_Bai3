@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: DEVOPS-Session16-Bai1
+
+    profiles:
+      active: prod
+
+
